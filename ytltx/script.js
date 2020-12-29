@@ -238,10 +238,7 @@ function startGUI () {
 
    
 
-    // let twitter = gui.add({ fun : () => {
-    //     ga('send', 'event', 'link button', 'twitter');
-    //     window.open('https://git');
-    // } }, 'fun').name('源码下载');
+  
     // twitter.__li.className = 'cr function bigFont';
     // twitter.__li.style.borderLeft = '3px solid #8C8C8C';
     // let twitterIcon = document.createElement('span');

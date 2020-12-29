@@ -491,7 +491,6 @@ parody.div.style.textAlign = 'center';
 parody.div.style.fontFamily = 'Verdana';
 parody.div.style.fontSize = '12px';
 parody.div.style.zIndex = 87654;
-parody.div.innerHTML = '这不是 flappy bird！只是个模仿 - www.dzzoffice.com';
 
 var points = 0;
 var highscore = 0;
