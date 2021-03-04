@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['https://52yxx.cn/img/skm.jpg','https://52yxx.cn/zz/wx.html','https://52yxx.cn/zz/zfb.html']
+custom: ['https://52yxx.cn/zz/wx.html','https://52yxx.cn/zz/zfb.html'] # 'https://52yxx.cn/img/skm.jpg',
